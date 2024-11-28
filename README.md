@@ -19,6 +19,7 @@
 - מנגנון המאפשר הצגת טקסט דינמי על המסך בעזרת חבילת **Text Mesh Pro**.
 
 ---
+[החלק הראשון ב-Itch.io](https://rehabgaming1.itch.io/matala2-part1)
 
 
 
